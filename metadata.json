@@ -1,0 +1,6 @@
+{
+  "name": "Planck Lab — 양자중력 시뮬레이터",
+  "description": "시공간 거품, 루프 양자중력 스핀 네트워크, 홀로그래피 AdS/CFT 얽힘 기하를 실시간 3D로 탐구하는 인터랙티브 양자중력 시뮬레이터입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
